@@ -1,0 +1,26 @@
+Node.jsで簡単お天気アプリを作ってみよう ~Node.js入門~
+https://www.youtube.com/watch?v=st4JDtVoq6I&t=173s
+
+現在の天気
+https://openweathermap.org/current
+
+刈谷
+https://openweathermap.org/find?q=kariya
+
+
+node main.js Kariya
+
+
+``  を使うと，他のディレクトリ内の変数を呼び出し可能 ${}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Kariya&appid=ｘｘｘｘｘｘｘ
+
+
+
+Examples of API calls:
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+
+
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid={API key}
